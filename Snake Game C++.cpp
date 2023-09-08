@@ -46,6 +46,7 @@ void Draw(){
 	for (int i=0;i<width;i++){
 		cout<<"#";
 	}cout<<endl;
+	cout<<"You Score is "<<score<<endl;
 }
 void Input(){
 	if(_kbhit()){
@@ -101,6 +102,7 @@ int main(){
 		Input();
 		Logic();
 		Sleep(40);
+		
 	}
 	return 0;
 }

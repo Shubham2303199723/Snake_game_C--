@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shubhu/Downloads/Snake_game_C++",
-      "program": "c:/Users/Shubhu/Downloads/Snake_game_C++/build/Debug/outDebug",
+      "cwd": "c:/Users/Shubhu/Desktop/Snake Game C++/Snake_game_C--",
+      "program": "c:/Users/Shubhu/Desktop/Snake Game C++/Snake_game_C--/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
